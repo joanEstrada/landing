@@ -3,7 +3,7 @@ const jhonData = {
   name2: "Waipo.",
   name3: "Alexa Johnson",
   role: "Waipo - Soluciones en monitoreo inteligente y seguridad.",
-  ptext: "Creative Design & Developing located in Antioquia, Colombia.",
+  ptext: "Creative Design for Smart Monitoring located in Antioquia, Colombia.",
   socialLinks: [
     {
       name: "Facebook",

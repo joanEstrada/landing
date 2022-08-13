@@ -31,7 +31,7 @@ class ParticlesBanner extends Component {
                 <h3>{jhonData.ptext}</h3>
               </Reveal>
               <Typer
-                heading={"Specialized in"}
+                heading={"Especialistas en"}
                 dataText={[
                   "Internet de las cosas.",
                   "Diseño.",

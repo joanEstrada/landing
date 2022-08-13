@@ -16,8 +16,8 @@ class About extends Component {
                                     <h2 className="t_color">{jhonData.aboutme}</h2>
                                     <h6>{jhonData.role}</h6>
                                     <p>{jhonData.aboutdetails}</p>
-                                    <Link to="/"  className="theme_btn active">Hire Me</Link>
-                                    <Link to="/" className="theme_btn">Download CV</Link>
+                                    <Link to="/"  className="theme_btn active">Contact us</Link>
+                                    <Link to="/" className="theme_btn">Nuestro catálogo</Link>
                                 </div>
                             </Fade>
                         </div>
