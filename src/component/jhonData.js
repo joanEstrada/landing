@@ -3,7 +3,7 @@ const jhonData = {
   name2: "Waipo.",
   name3: "Alexa Johnson",
   role: "Visual Designer & Front-End Developer,",
-  ptext: "Creative Designer & Developer located in Colombia.",
+  ptext: "Creative Designer & Developer located in Antioquia, Colombia.",
   socialLinks: [
     {
       name: "Facebook",
@@ -28,7 +28,7 @@ const jhonData = {
   ],
   aboutme: "About Me",
   aboutdetails:
-    "We are waipo. Lorem Ipsum has been the industry's standard dummy text ever It has survived not only five centuries, but also the leap into electronic but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing",
+    "We are waipo. Vero Joan Mateo Mauro Esteban dummy text ever It has survived not only five centuries, but also the leap into electronic but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing",
   service: [
     {
       id: 1,
