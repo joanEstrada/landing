@@ -1,9 +1,9 @@
 const jhonData = {
   name: "John Deo.",
-  name2: "Waipo Team.",
+  name2: "Waipo.",
   name3: "Alexa Johnson",
   role: "Visual Designer & Front-End Developer,",
-  ptext: "Creative Designer & Developer located in London.",
+  ptext: "Creative Designer & Developer located in Colombia.",
   socialLinks: [
     {
       name: "Facebook",
