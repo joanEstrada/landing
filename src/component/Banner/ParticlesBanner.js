@@ -24,7 +24,7 @@ class ParticlesBanner extends Component {
             <div className="banner_content">
               <Reveal effect="fadeInUp">
                 <h2 className="wow fadeInLeft animated">
-                  I'm {jhonData.name2}
+                  We are {jhonData.name2}
                 </h2>
               </Reveal>
               <Reveal effect="fadeInUp" duration={1500}>

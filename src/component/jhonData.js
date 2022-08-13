@@ -1,6 +1,6 @@
 const jhonData = {
   name: "John Deo.",
-  name2: "Richard Tea.",
+  name2: "Waipo Team.",
   name3: "Alexa Johnson",
   role: "Visual Designer & Front-End Developer,",
   ptext: "Creative Designer & Developer located in London.",
