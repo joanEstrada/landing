@@ -9,7 +9,7 @@ class Service extends Component{
         return(
             <section className={`${wClass}`} id="service">
                 <div className="container">
-                    <Sectiontitle Title="What I'm Doing" TitleP="I love what I do. I take great pride in what I do."/>
+                    <Sectiontitle Title="¿Qué estamos haciendo?" TitleP="Nos apasiona transformar organizaciones."/>
                     <Fade bottom cascade duration={1000}>
                         <div className="row">
                             {

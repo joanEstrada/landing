@@ -2,8 +2,8 @@ const jhonData = {
   name: "John Deo.",
   name2: "Waipo.",
   name3: "Alexa Johnson",
-  role: "Visual Designer & Front-End Developer,",
-  ptext: "Creative Designer & Developer located in Antioquia, Colombia.",
+  role: "Waipo - Soluciones en monitoreo inteligente y seguridad.",
+  ptext: "Creative Design & Developing located in Antioquia, Colombia.",
   socialLinks: [
     {
       name: "Facebook",
@@ -26,30 +26,30 @@ const jhonData = {
       className: "social_pinterest",
     },
   ],
-  aboutme: "About Me",
+  aboutme:"Acerca de nosotros",
   aboutdetails:
-    "We are waipo. Vero Joan Mateo Mauro Esteban dummy text ever It has survived not only five centuries, but also the leap into electronic but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing",
+    "Somos una empresa de desarrollo de dispositivos del internet de las cosas para desempeñar tareas de gestión y monitoreo inteligente en diversos campos como la construcción, los inventarios, la vigilancia vehicular entre otros. Generamos soluciones específicas que destacan en el mercado como productos únicos adaptados a la necesidad particular del cliente mediante el uso de plataformas web intuitivas con alto grado de encriptación.",
   service: [
     {
       id: 1,
       iconName: "icon-desktop",
-      serviceTitle: "Web Design",
+      serviceTitle: "Diseño de interfaz",
       sDetails:
-        "There are many variations of pssages of Lorm available, bu in some form, Lorem Ipsum is simply dummy text.",
+        "Resumimos toda la información crítica del proceso a través de informes intuitivos y automatizados.",
     },
     {
       id: 2,
       iconName: "icon-pencil",
-      serviceTitle: "Development",
+      serviceTitle: "Asesorías personalizadas",
       sDetails:
-        "There are many variations of pssages of Lorm available, bu in some form, Lorem Ipsum is simply dummy text.",
+        "Ofrecemos una revisión completa de cómo funcionan sus procesos y cómo puede mejorarlos.           ",
     },
     {
       id: 3,
       iconName: "icon-presentation",
-      serviceTitle: "Marketing",
+      serviceTitle: "Analítica de datos",
       sDetails:
-        "There are many variations of pssages of Lorm available, bu in some form, Lorem Ipsum is simply dummy text.",
+        "Nos preocupamos en generar informes suficientes para la gerencia estratégica y la competitividad.",
     },
     {
       id: 4,

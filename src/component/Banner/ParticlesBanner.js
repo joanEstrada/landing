@@ -33,10 +33,10 @@ class ParticlesBanner extends Component {
               <Typer
                 heading={"Specialized in"}
                 dataText={[
-                  "Developer.",
-                  "Photographer.",
-                  "Designing UI/UX.",
-                  "Freelancer.",
+                  "Internet de las cosas.",
+                  "Diseño.",
+                  "Analítica de datos.",
+                  "Atención personalizada.",
                 ]}
               />
               <ul className="list_style social_icon">
