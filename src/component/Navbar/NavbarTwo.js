@@ -14,10 +14,10 @@ class NavbarTwo extends Component {
               <img src={require("../../image/" + stickylogo)} alt="" />
             </a>
             <a
-              href="./"
+              href="https://main.d1o1buirsi1w0j.amplifyapp.com/"
               className="btn get-btn get-btn-two d-lg-none d-md-block login"
             >
-              Login
+              Launch App
             </a>
             <button
               className="navbar-toggler"
