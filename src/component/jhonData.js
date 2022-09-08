@@ -3,27 +3,27 @@ const jhonData = {
   name2: "Waipo.",
   name3: "Alexa Johnson",
   role: "Waipo - Soluciones en monitoreo inteligente y seguridad.",
-  ptext: "Creative Design for Smart Monitoring located in Antioquia, Colombia.",
+  ptext: "Creative Solutions for Smart Monitoring from Colombia to the moon🚀🚀.",
   socialLinks: [
     {
-      name: "Facebook",
-      url: "http://www.linkedin.com/",
-      className: "social_facebook",
+      name: "Linkedin",
+      url: "https://www.linkedin.com/company/waipo-s-a-s/",
+      className: "social_linkedin",
     },
     {
-      name: "twitter",
-      url: "http://www.twitter.com/",
-      className: "social_twitter",
+      name: "Instagram",
+      url: "https://www.instagram.com/waipo.iot/",
+      className: "social_instagram",
     },
     {
-      name: "googleplus",
-      url: "http://www.googleplus.com",
-      className: "social_googleplus",
+      name: "Youtube",
+      url: "https://www.youtube.com/channel/UClm94DXD0xok1sbyEDEgdHg",
+      className: "social_youtube",
     },
     {
-      name: "pinterest",
-      url: "http://www.pinterest.com",
-      className: "social_pinterest",
+      name: "Skype",
+      url: "https://api.whatsapp.com/send/?phone=573126061489&text&type=phone_number&app_absent=0",
+      className: "social_skype",
     },
   ],
   aboutme:"Acerca de nosotros",
@@ -35,43 +35,43 @@ const jhonData = {
       iconName: "icon-desktop",
       serviceTitle: "Diseño de interfaz",
       sDetails:
-        "Resumimos toda la información crítica del proceso a través de informes intuitivos y automatizados.",
+        "Comunicación de información relevante en cualquier plataforma incluida whatsapp",
     },
     {
       id: 2,
       iconName: "icon-pencil",
       serviceTitle: "Asesorías personalizadas",
       sDetails:
-        "Ofrecemos una revisión completa de cómo funcionan sus procesos y cómo puede mejorarlos.           ",
+        "Ofrecemos sin costo una revisión de sus procesos y le sugerimos cómo puede mejorarlos con nosotros",
     },
     {
       id: 3,
       iconName: "icon-presentation",
       serviceTitle: "Analítica de datos",
       sDetails:
-        "Nos preocupamos en generar informes suficientes para la gerencia estratégica y la competitividad.",
+        "Medimos el desempeño en la gestión del proceso para aumentar su toma de decisión al máximo.",
     },
-    {
+/*    {
       id: 4,
       iconName: "icon-linegraph",
       serviceTitle: "Strategy",
       sDetails:
         "There are many variations of pssages of Lorm available, bu in some form, Lorem Ipsum is simply dummy text.",
-    },
-    {
+    }, */
+/*    {
       id: 5,
       iconName: "icon-gears",
       serviceTitle: "Support",
       sDetails:
         "There are many variations of pssages of Lorm available, bu in some form, Lorem Ipsum is simply dummy text.",
-    },
-    {
+    },*/
+/*    {
       id: 6,
       iconName: "icon-tools",
       serviceTitle: "We’re experienced",
       sDetails:
         "There are many variations of pssages of Lorm available, bu in some form, Lorem Ipsum is simply dummy text.",
-    },
+    },*/
   ],
   contact: [
     {

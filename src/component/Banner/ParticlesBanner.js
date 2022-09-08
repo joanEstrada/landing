@@ -31,12 +31,12 @@ class ParticlesBanner extends Component {
                 <h3>{jhonData.ptext}</h3>
               </Reveal>
               <Typer
-                heading={"Especialistas en"}
+                heading={"Specialists in"}
                 dataText={[
-                  "Internet de las cosas.",
-                  "Diseño.",
-                  "Analítica de datos.",
-                  "Atención personalizada.",
+                  "Internet of things.",
+                  "Tracking indoor.",
+                  "Customized design.",
+                  "YOU! ❤️.",
                 ]}
               />
               <ul className="list_style social_icon">

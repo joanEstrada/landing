@@ -39,7 +39,7 @@ class Clientslogo extends  Component{
         return(
             <section className="clients_logo_area">
                 <div className="container">
-                    <Sectiontitle Title="Trusted byGreat People" TitleP="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."/>
+                    <Sectiontitle Title="Based on great sources of knowledge" TitleP="We thank the mayor's office of medellin ​🇨🇴​🌴​🏰​, the remote training platforms 🐱‍🏍, the EIA university spaces 🤓💻 and many other collaborators for making this initiative a reality."/>
                     <Clientsliders {...settings} className="clients_slider">
                         <div className="item">
                             <a href=".#"><img src={require('../image/1.png')} alt=""/></a>

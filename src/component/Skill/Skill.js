@@ -49,7 +49,7 @@ class Skill extends Component {
                     <Reveal effect="fadeInUp">
                         <div className="row">
                             <CounterItem CText='200' pdescription='Total Projects' icon='briefcase'/>
-                            <CounterItem CText='120' pdescription='Happy Clients' icon='happy'/>
+                            <CounterItem CText='1' pdescription='Happy Clients' icon='happy'/>
                             <CounterItem CText='4' pdescription='Years of Experience' icon='calendar'/>
                             <CounterItem CText='10' pdescription='Award Won' icon='trophy'/>
                         </div>
